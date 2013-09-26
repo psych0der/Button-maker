@@ -9,3 +9,5 @@ Dependencies :
 * [eycon color picker](http://www.eyecon.ro/colorpicker/) as color picker plugin
 * [jquery code clean](https://code.google.com/p/jquery-clean/) for tidying html and syntax coloring
 * [jquery ui](http://jqueryui.com)
+
+Live Demo : [Here](http://experiments.mayankbhola.in/button-maker/index.html)
